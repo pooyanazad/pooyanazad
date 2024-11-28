@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🌐 I’m currently working on: Enhancing my cloud infrastructure skills with AWS and Terraform, while contributing to open-source DevOps projects.<br>🤝 I’m looking to collaborate on: Cloud-native applications, automation projects, and infrastructure as code (IaC) using Terraform.<br>💡 I’m looking for help with: Advanced Kubernetes configurations and scaling containerized applications.<br>🌱 I’m currently learning: AWS solution architecture.<br>💬 Ask me about: DevOps, Linux, automation, and cloud infrastructure.<br>⚡ Fun fact: I’m passionate about Gaming and continuous learning and love exploring new technologies every day! 
 
 
