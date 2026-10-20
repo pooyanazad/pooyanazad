@@ -1,20 +1,10 @@
-<div align="center">
+# Pooyan Azad
 
-<p><strong>Hi, I'm Pooyan</strong></p>
-
-<p><strong>Senior DevOps Engineer · Open Source Contributor</strong></p>
+Senior DevOps Engineer at Aptiv · Gothenburg, Sweden
 
 **Linux at heart. Automation by default.**
 
-I build tools for infrastructure automation and contribute fixes to the open-source projects behind it.
-
-Gothenburg, Sweden · Senior DevOps Engineer at Aptiv
-
-Certified in AWS Solutions Architecture (Associate) and Terraform.
-
-[LinkedIn](https://www.linkedin.com/in/pooyan-azad/) · [Medium](https://medium.com/@pooyan.azadparvar) · [GitHub](https://github.com/pooyanazad)
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/pooyan-azad/) · [Medium](https://medium.com/@pooyan.azadparvar)
 
 ---
 
