@@ -1,12 +1,9 @@
-# Pooyan Azad
-
+# Hi, I'm Pooyan
 Senior DevOps Engineer at Aptiv · Gothenburg, Sweden
 
 [LinkedIn](https://www.linkedin.com/in/pooyan-azad/) · [Medium](https://medium.com/@pooyan.azadparvar)
 
----
-
-<p><strong>What I build</strong></p>
+## What I build
 
 - **[AnsiblePower](https://github.com/pooyanazad/AnsiblePower)**: A lightweight web UI for Ansible playbooks.
 - **[yamlguard](https://github.com/pooyanazad/yamlguard)**: YAML validation with optional security checks.
@@ -15,9 +12,6 @@ Senior DevOps Engineer at Aptiv · Gothenburg, Sweden
 <p><strong>Open source</strong></p>
 
 I've contributed fixes and tests to projects including **Podman**, **Apptainer**, **NGINX Agent**, and **psutil**, with a focus on container tooling, infrastructure automation, and Linux systems.
-
-
----
 
 Open to collaborating on Linux tooling, infrastructure automation, and cloud-native projects.
 
