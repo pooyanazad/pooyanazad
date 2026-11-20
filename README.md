@@ -5,7 +5,7 @@ Senior DevOps Engineer at Aptiv · Gothenburg, Sweden
 
 ## What I build
 
-- **[AnsiblePower](https://github.com/pooyanazad/AnsiblePower)**: A lightweight web UI for Ansible playbooks.
+- **[ansible-power](https://github.com/pooyanazad/ansible-power)**: A lightweight web UI for Ansible playbooks.
 - **[yamlguard](https://github.com/pooyanazad/yamlguard)**: YAML validation with optional security checks.
 - **[kube-saver](https://github.com/pooyanazad/kube-saver)**: Kubernetes cost and resource insights.
 
