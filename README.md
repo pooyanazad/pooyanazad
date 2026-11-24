@@ -9,11 +9,20 @@ Senior DevOps Engineer at Aptiv · Gothenburg, Sweden
 - **[yamlguard](https://github.com/pooyanazad/yamlguard)**: YAML validation with optional security checks.
 - **[kube-saver](https://github.com/pooyanazad/kube-saver)**: Kubernetes cost and resource insights.
 
-<p><strong>Open source</strong></p>
+## Open source
 
-I've contributed fixes and tests to projects including **Podman**, **Apptainer**, **NGINX Agent**, and **psutil**, with a focus on container tooling, infrastructure automation, and Linux systems.
+I've contributed fixes and tests to projects including **Apptainer**, **Podman**, **NGINX Agent**, and **psutil**, with a focus on container tooling, infrastructure automation, and Linux systems.
 
 Open to collaborating on Linux tooling, infrastructure automation, and cloud-native projects.
+
+
+## Linux Kernel Contributions 🐧
+
+While exploring ZRAM to optimize memory for running AI models locally, I came across a bug in its debugfs `block_state` interface.
+
+I fixed the issue where small reads incorrectly returned EOF by switching to `seq_file`.
+
+🔗 [zram: fix short reads from block_state](https://github.com/torvalds/linux/commit/372012202260db088b489ed00059c4571a602552)
 
 <p><strong>A little more about me</strong></p>
 
